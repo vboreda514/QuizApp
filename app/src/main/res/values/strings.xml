@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="hard_coded_string_name"> Hello TJ! </string>
+    <string name="click_button">Submit</string>
+</resources>
